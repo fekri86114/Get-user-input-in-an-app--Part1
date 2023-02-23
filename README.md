@@ -9,6 +9,6 @@ This application is for Android Developers site course.
   - viewBinding
   - EditText
   - TextView
-  - AppCompatRadioButton
-  - SwitchCompat
+  - RadioButton
+  - Switch
   - Button
